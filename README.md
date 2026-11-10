@@ -2,7 +2,7 @@
 
 Windows 바탕화면에 놓는 보송보송한 메타몽 러그입니다.
 
-**[Windows x64 설치 파일 다운로드](https://github.com/WasJoy/rokeshot-rug/releases/latest/download/Ditto-Rug-1.4.0-win-x64.exe)** · [릴리스 및 검증 결과](https://github.com/WasJoy/rokeshot-rug/releases/latest)
+**[Windows x64 설치 파일 다운로드](https://github.com/WasJoy/rokeshot-rug/releases/latest/download/Ditto-Rug-1.4.1-win-x64.exe)** · [릴리스 및 검증 결과](https://github.com/WasJoy/rokeshot-rug/releases/latest)
 
 ## 설치
 
@@ -19,6 +19,10 @@ Windows 바탕화면에 놓는 보송보송한 메타몽 러그입니다.
 - **Ctrl + Shift + L**: 클릭 통과 잠금 / 잠금 해제
 - 트레이 아이콘 메뉴: 숨기기, 보이기, 위치·크기 초기화, 종료
 - 위치, 크기, 잠금 상태는 PC에 저장됩니다.
+
+## v1.4.1 수정
+
+러그 위에 마우스를 올릴 때 화면 전체가 검게 변하던 문제를 수정했습니다. Windows의 투명 창을 Explorer의 자식 창으로 바꾸지 않고, 바탕화면 바로 위에 배치합니다. 대비되는 바탕화면에서 호버·휠·잠금 전환의 배경색 유지와 일반 앱 뒤의 표시 순서를 검사합니다.
 
 ## v1.4.0 수정
 
